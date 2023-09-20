@@ -6,9 +6,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# Welcome to the Streamlit Google clodu! 👋")
-
-st.sidebar.success("Select a demo above.")
+st.write("# Welcome to the Streamlit Google Cloud! 👋")
 
 
 headers = _get_websocket_headers()
